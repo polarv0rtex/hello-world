@@ -1,2 +1,4 @@
 # hello-world
-Intro to GitHub
+===================
+
+Student at the University of Arizona dipping my toes in the waters of the Git.
